@@ -4,7 +4,7 @@ Below are the steps to setup this application.
 1. To run this code first we have to setup tensorflow object detection API.Below is the link to for its setup.
                https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
 
-2. Download and extract any the model files(Any 3) to models/research/object_detection folder.Below is the link to download.
+2. Download and extract any model files(Any 3) to models/research/object_detection folder.Below is the link to download.
                https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 
 3. Next copy the test_main.py python file to models/research/object_detection folder
